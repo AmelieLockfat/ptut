@@ -1,0 +1,1 @@
+INSERT INTO Diplome(intituleDiplome) VALUES ('CECIESTUNDIPLOME');
